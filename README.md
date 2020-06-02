@@ -8,7 +8,7 @@ A Custom Kernel for Samsung Galaxy S7 / S7 Edge.
 * XDA S7 Edge Forum: http://forum.xda-developers.com/showthread.php?t=3501571
 
 
-Compiled using Google GCC 4.9 Toolchain
+Compiled using Google GCC 4.9 Toolchain (tag: android-8.0.0_r47)
 
 * URL: https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 
