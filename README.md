@@ -13,6 +13,12 @@ Compiled using Google GCC 4.9 Toolchain (tag: android-8.0.0_r47)
 * URL: https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
 
 ## How to use
+### Required software (on Debian based system)
+ - zip
+ - ccache
+ - build-essential
+ - openjdk-X-jre-headless (replace X with available version eg. 11)
+ 
 Adjust the toolchain path in build.sh and Makefile to match the path on your system. 
 
 Run build.sh with the following options, doesn't matter what order keep and silent are in.
